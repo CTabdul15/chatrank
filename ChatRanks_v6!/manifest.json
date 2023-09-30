@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Chat Ranks v6!",
+    "description": "§l§aChat Ranks §fmade by §bCTabdul15 \n§fYou§ctube: §fCTabdul15",
+    "uuid": "6dd385d3-31e2-454a-9b07-a7e4465dc302",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 19, 50 ]
+  },
+  "modules": [
+    {
+      "description": "Works for realms",
+      "type": "data",
+      "uuid": "9e957ea3-e40e-4346-987d-aec77a0804be",
+      "version": [ 1, 0, 0 ]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "ffd86374-1c05-4032-96a7-d79b3ee9be8f",
+      "version": [ 1, 0, 0 ],
+      "entry": "scripts/index.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.6.0-beta"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.2.0-beta"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "CTabdul15"
+    ]
+  }
+}
