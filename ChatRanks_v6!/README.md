@@ -1,8 +1,8 @@
 This pack was created by
-<= Xbox - CTabdul15
-<= Youtube - CTabdul15
-<= Discord - CTabdul15#3409
-<= Discord Server - https://discord.gg/5kwkGnZagR
+>= Xbox - CTabdul15
+>= Youtube - CTabdul15
+>= Discord - ctabdul15
+>= Discord Server - https://discord.gg/5kwkGnZagR
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
